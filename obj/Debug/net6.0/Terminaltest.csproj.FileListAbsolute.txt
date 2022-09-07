@@ -1,0 +1,15 @@
+/Users/felix/Terminaltest/bin/Debug/net6.0/Terminaltest
+/Users/felix/Terminaltest/bin/Debug/net6.0/Terminaltest.deps.json
+/Users/felix/Terminaltest/bin/Debug/net6.0/Terminaltest.runtimeconfig.json
+/Users/felix/Terminaltest/bin/Debug/net6.0/Terminaltest.dll
+/Users/felix/Terminaltest/bin/Debug/net6.0/Terminaltest.pdb
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.csproj.AssemblyReference.cache
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.AssemblyInfoInputs.cache
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.AssemblyInfo.cs
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.csproj.CoreCompileInputs.cache
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.dll
+/Users/felix/Terminaltest/obj/Debug/net6.0/refint/Terminaltest.dll
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.pdb
+/Users/felix/Terminaltest/obj/Debug/net6.0/Terminaltest.genruntimeconfig.cache
+/Users/felix/Terminaltest/obj/Debug/net6.0/ref/Terminaltest.dll
